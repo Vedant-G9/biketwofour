@@ -1,0 +1,65 @@
+{
+    "bike": [
+        {
+            "id": "1",
+            "bkBrdcmpy": "hero",
+            "bkModel": "pleasure",
+            "bkYearofmauf":"2017",
+            "bkDriven":"20000",
+            "bkRngno":"GJO3KR4521",
+            "bkDetail":"complete condition,full insurance,company services.",
+            "bkPrice":"45555",
+            "bkOwnerno":"9998026021",
+            "bkOwnereml":"vedantgosai007@gmail.com"
+        },
+        {
+            "id": "2",
+            "bkBrdcmpy": "yamaha",
+            "bkModel": "fz-s",
+            "bkYearofmauf":"2013",
+            "bkDriven":"30000",
+            "bkRngno":"GJ03FG3597",
+            "bkDetail":"complete condition,full insurance,company services.",
+            "bkPrice":"45000",
+            "bkOwnerno":"9099892773",
+            "bkOwnereml":"gosaiarjungiri@gmail.com"
+        },
+        {
+            "id": "3",
+            "bkBrdcmpy": "honda",
+            "bkModel": "activa",
+            "bkYearofmauf":"2010",
+            "bkDriven":"45000",
+            "bkRngno":"GJ03AB9921",
+            "bkDetail":"complete condition,full insurance,company services.",
+            "bkPrice":"25000",
+            "bkOwnerno":"8200330509",
+            "bkOwnereml":"vedantgirigosai@gmail.com"
+        },
+        {
+            "id": "4",
+            "bkBrdcmpy": "hero",
+            "bkModel": "pleasure",
+            "bkYearofmauf":"2015",
+            "bkDriven":"17000",
+            "bkRngno":"GJ03EJ3050",
+            "bkDetail":"complete condition,full insurance,company services.",
+            "bkPrice":"35000",
+            "bkOwnerno":"9426225030",
+            "bkOwnereml":"myfakemail@gmail.com"
+        },
+        {
+            "id": "5",
+            "bkBrdcmpy": "hero",
+            "bkModel": "pleasure",
+            "bkYearofmauf":"2018",
+            "bkDriven":"2500",
+            "bkRngno":"GJ03KL3636",
+            "bkDetail":"complete condition,full insurance,company services.",
+            "bkPrice":"50000",
+            "bkOwnerno":"9998026021",
+            "bkOwnereml":"vedumail@gmail.com"
+        }
+       
+    ]
+}
